@@ -1,0 +1,66 @@
+{
+    "name": "design-tokens",
+    "version": "0.0.0",
+    "license": "",
+    "description": "Design Tokens",
+    "author": "acid.info",
+    "keywords": [
+        "design",
+        "properties",
+        "tokens"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/acid-info/design-tokens.git"
+    },
+    "fonts": {},
+    "fontSizes": [],
+    "colors": {
+        "black": [
+            "#000000"
+        ],
+        "errie-black": [
+            "#1a1a1a"
+        ],
+        "jet-gray": [
+            "#333333"
+        ],
+        "granite-gray": [
+            "#666666"
+        ],
+        "silver": [
+            "#b3b3b3"
+        ],
+        "whitesmoke": [
+            "#f2f2f2"
+        ],
+        "white": [
+            "#ffffff"
+        ],
+        "aqua": [
+            "#00ffff"
+        ],
+        "blue": [
+            "#0000ff"
+        ],
+        "fuchsia": [
+            "#ff00ff"
+        ],
+        "lime": [
+            "#00ff00"
+        ],
+        "yellow": [
+            "#ffff00"
+        ],
+        "red": [
+            "#ff0000"
+        ]
+    },
+    "borderWidths": [],
+    "space": [],
+    "lineHeights": {},
+    "borderStyles": [],
+    "borderRadius": [],
+    "breakpoints": [],
+    "text": {}
+}
